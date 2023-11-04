@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Arnold</string>
+    <string name="profile_text">Profile</string>
+    <string name="arnold_schwarzenegger_text">Arnold Schwarzenegger</string>
+    <string name="motivation_text">Unlock Your Full Potential, One Rep at a Time.</string>
+    <string name="chest_text">1. Chest</string>
+    <string name="triceps_text">2. Triceps</string>
+    <string name="back_text">3. Back</string>
+    <string name="bench_press_text">Bench Press</string>
+    <string name="pushdown_text">Cable Pushdown</string>
+    <string name="lat_pull_down_text">Lat Pull Down</string>
+    <string name="_40">%40</string>
+    <string name="_20">%20</string>
+    <string name="_15">%15</string>
+    <string name="_106_day">106. Day</string>
+</resources>

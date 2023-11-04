@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="preloaded_fonts" translatable="false">
+        <item>@font/dancing_script</item>
+        <item>@font/grandstander_thin</item>
+        <item>@font/great_vibes</item>
+        <item>@font/la_belle_aurore</item>
+        <item>@font/luckiest_guy</item>
+        <item>@font/permanent_marker</item>
+    </array>
+</resources>

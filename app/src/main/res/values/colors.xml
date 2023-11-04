@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <color name="appThemeColor">#142148</color>
+    <color name="textTitleColor">#3F4254</color>
+    <color name="subTextColor">#B5B5C3</color>
+
+    <color name="box1Color">#C9F7F5</color>
+    <color name="box1TextColor">#1BC5BD</color>
+    <color name="box2Color">#FFE2E5</color>
+    <color name="box2TextColor">#F76070</color>
+    <color name="box3Color">#EEE5FF</color>
+    <color name="box3TextColor">#8950FC</color>
+</resources>
